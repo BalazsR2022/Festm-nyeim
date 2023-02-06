@@ -1,0 +1,48 @@
+div{
+    box-shadow: 4.5px 4.5px 3.6px rgba(0, 0, 0, 0.026);
+ 
+
+
+    width: 10em;
+    height: 10em;
+    box-shadow: box-shadow: 10px 10px 5px #999;
+    text-shadow:box-shadow: 10px 10px 5px #999;
+    background-image: radial-gradient(circle at 50% -20.71%, #fbffff 0, #d9f1fa 25%, #b5def2 50%, #91cbeb 75%, #70b9e5 100%);
+}
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    background-color:#4C83FF; 
+    
+      
+}
+body{
+    background-color: beige;
+    
+}
+header{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+span{
+    background-image: radial-gradient(circle, #4b6cb7 10%, #182848 90%);
+    text-align: center;
+    width: 440px;
+    height: 440px;
+}
+.button{
+    
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    width: 15em;
+   
+        
+        
+      
+
+}

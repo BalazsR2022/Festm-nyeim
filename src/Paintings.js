@@ -1,0 +1,1 @@
+backgroundImage: 'linear-gradient(45deg, #7950f2 5%, #f783ac 95%)'
